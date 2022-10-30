@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-[ [Blog](https://furqansoftware.com/blog) ]
+[ [Blog](https://furqansoftware.com/blog/) ]
